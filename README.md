@@ -5,7 +5,13 @@
 </h3>
 
 ## **About Me:**
-I am a Final Year Student at DA-IICT. I am well versed with Problem Solving and an enthusiast for open source contribution. I keenly want to explore the domain other than problem solving and competitive programming and want to contribute in real world projects. I am familiar with technologies like MERN stack and well versed with relational and non-relational databases.
+Hey, I am Chaitanya, a final-year undergraduate student, with a strong passion for technology, pursuing Bachelors in Information and Communication Technology. I am currently working as a Software Engineer Intern at UnifyApps.
+
+I bring expertise in programming languages such as C, C++, and Python, along with solid problem-solving skills. My academic foundation includes in-depth knowledge of core subjects like Database Management Systems, Operating Systems, Computer Networking, and Object-Oriented Programming.
+
+Additionally, I have explored Semantic Web technologies such as RDF and Apache Jena ARQ, along with tools like SPARQL for data querying. Also, I am working on optimization in clustering of wireless sensor networks.
+
+Let’s connect if we share similar interests and explore opportunities of working together on real world problems.
 
 
 ## 🧰 Languages and Tools
