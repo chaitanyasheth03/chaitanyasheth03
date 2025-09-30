@@ -5,13 +5,13 @@
 </h3>
 
 ## **About Me:**
-Hey, I am Chaitanya, a final-year undergraduate student, with a strong passion for technology, pursuing Bachelors in Information and Communication Technology. I am currently working as a Software Engineer Intern at UnifyApps.
+Hey, I’m Chaitanya — 2025 passout undergraduate passionate about technology. Pursued a Bachelor's in Information and Communication Technology. I’m working as a Product Engineer at UnifyApps.
 
-I bring expertise in programming languages such as C, C++, and Python, along with solid problem-solving skills. My academic foundation includes in-depth knowledge of core subjects like Database Management Systems, Operating Systems, Computer Networking, and Object-Oriented Programming.
+I bring experience in programming languages like C, C++, and Java, along with strong problem-solving skills. My academic background includes core subjects such as Database Management Systems, Operating Systems, Computer Networking, and Object-Oriented Programming.
 
-Additionally, I have explored Semantic Web technologies such as RDF and Apache Jena ARQ, along with tools like SPARQL for data querying. Also, I am working on optimization in clustering of wireless sensor networks.
+Beyond coursework, I’ve explored Semantic Web technologies including RDF, SPARQL, and Apache Jena ARQ. I’m also engaged in research on optimizing energy efficiency in wireless sensor networks, with a paper accepted in the IEEE Sensors Journal.
 
-Let’s connect if we share similar interests and explore opportunities of working together on real world problems.
+Let’s connect if we share similar interests and explore opportunities to collaborate on real-world challenges.
 
 
 ## 🧰 Languages and Tools
