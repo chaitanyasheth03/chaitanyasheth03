@@ -15,29 +15,23 @@ Let’s connect if we share similar interests and explore opportunities to colla
 
 
 ## 🧰 Languages and Tools
-<div align="justify">
-  <img src="https://skillicons.dev/icons?i=c" height="30" width="30" alt="C" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" width="30" alt="C++" /
-
-  <img src="https://skillicons.dev/icons?i=html" height="30" width="30" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" width="30" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" width="30" alt="JS" />
-
-  <img src="https://skillicons.dev/icons?i=react" height="30" width="30" alt="ReactJS" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" width="30" alt="NodeJS" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" width="30" alt="ExpressJS" />
-  
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="30" width="30" alt="Bootstrap" />
-  
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" width="30" alt="MongoDB" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" width="30" alt="PostgreSQL" />
-
-  <img src="https://skillicons.dev/icons?i=git" height="30" width="30" alt="Git" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" width="30" alt="GitHub" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" width="30" alt="Postman" />
-
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" width="30" alt="VSC" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="30" width="30" alt="StackOverflow" />  
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="https://skillicons.dev/icons?i=c" height="40" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" />
+  <img src="https://skillicons.dev/icons?i=express" height="40" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" />
+  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" />
 </div>
 
 ## 👨🏻‍💻 Coding Profiles
